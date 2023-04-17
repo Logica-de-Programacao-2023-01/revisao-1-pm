@@ -36,6 +36,6 @@ func main() {
 	} else {
 		desconto = 0.1
 	}
-	fmt.Print("Valor do desconto: ", compra*desconto)
+	fmt.Println("Valor do desconto: ", compra*desconto)
 	fmt.Println("Erro: nil")
 }
