@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Questao1(compra float64, historico float64) float64  {
 	var compra float64
 	var historico float64
 	var soma float64
